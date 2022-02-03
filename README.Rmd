@@ -1,0 +1,27 @@
+---
+title: "markdown practice"
+author: "Dai Moroi"
+date: "2/2/2022"
+output: github_document
+---
+
+*Hello***This is a test**
+
+* Item 1
+* Item 2
+    + Item 2a
+    + Item 2b
+
+- Item 1
+- Item 2 
+  - Item 2a
+  - Item 2b
+  
+  
+  
+  first commit
+  
+  hello
+  
+
+  
