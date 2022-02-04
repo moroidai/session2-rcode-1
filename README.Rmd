@@ -2,11 +2,16 @@
 title: "markdown practice"
 author: "Dai Moroi"
 date: "2/2/2022"
-output: github_document
+output: pdf_document
+bibliography: reference.bib
 ---
 
 *Hello***This is a test**
 
+
+@citeR
+
+[@citeR]
 * Item 1
 * Item 2
     + Item 2a
@@ -17,11 +22,21 @@ output: github_document
   - Item 2a
   - Item 2b
   
+```{r, echo=FALSE}
+
+2+2
+
+```
+  
+```{r, message=FALSE, warning=FALSE}
+library(tidyverse)
+```
   
   
   first commit
   
   hello
   
+  hello, again
 
   
